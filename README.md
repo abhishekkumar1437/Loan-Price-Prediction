@@ -1,9 +1,13 @@
 # Classifiers-Algo-in-ML
-This project is completed on IBM Watson studio which is assignment of coursera Machine Learning Project.
+####This project is completed on IBM Watson studio which is assignment of coursera Machine Learning Project.
 
-This project hav classifiers- Algorithms as listed following.
-1. Linear regression
-2. Logistic regression
-3. Support Vector Machine
-4. Random forest
-5. Naive bayes
+##This project hav classifiers- Algorithms as listed following.
+- Linear regression
+- Logistic regression
+- Support Vector Machine
+- Random forest
+- Naive bayes
+## How to run 
+- Download the code
+- Open your jupyter notebook
+- Upload the code on Notebook and run
