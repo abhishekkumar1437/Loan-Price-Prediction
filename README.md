@@ -1,4 +1,4 @@
-# Loan Price prediction
+# Loan Price Prediction
 #### This project is completed on IBM Watson studio which is assignment of coursera Machine Learning Project.
 
 ### This project hav classifiers- Algorithms as listed following.
