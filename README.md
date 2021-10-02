@@ -12,3 +12,4 @@
 - Open your jupyter notebook
 - Upload the code on Notebook and run
 #### To run online [Jupyter notebook](https://cocalc.com/doc/jupyter-notebook.html)
+Just Okay.
