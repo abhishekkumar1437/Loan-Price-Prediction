@@ -8,7 +8,7 @@
 - Random forest
 - Naive bayes
 ## How to run manually
-- Download the code
+- Download the codes
 - Open your jupyter notebook
 - Upload the code on Notebook and run
 #### To run online [Jupyter notebook](https://cocalc.com/doc/jupyter-notebook.html)
